@@ -14,13 +14,15 @@
         "@astrojs/rss": "^4.0.5",
         "@astrojs/sitemap": "^3.0.5",
         "@astrojs/tailwind": "^5.1.0",
-        "@tinacms/cli": "^1.5.39",
         "astro": "^4.3.5",
         "marked": "^12.0.0",
-        "tailwindcss": "^3.4.1"
+        "tailwindcss": "^3.4.1",
+        "tinacms": "^1.5.28"
     },
     "devDependencies": {
         "@tailwindcss/typography": "^0.5.10",
+        "@tinacms/cli": "^1.5.39",
+        "@types/node": "^20.11.17",
         "prettier": "^3.2.5",
         "prettier-plugin-tailwindcss": "^0.5.11"
     }
