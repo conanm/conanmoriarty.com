@@ -60,10 +60,6 @@ const siteConfig: SiteConfig = {
     ],
     footerNavLinks: [
         {
-            text: 'About',
-            href: '/about'
-        },
-        {
             text: 'Contact',
             href: '/contact'
         }
@@ -75,7 +71,7 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        text: "I'm **Conan Moriarty**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        text: "Hey! I'm **Conan Moriarty**, a tech enthusiast who's navigated the seas of startup adventures, worn the CTO cape and wrote code in almost all the popular modern languages for most cloud services. From leading tech teams on quests for digital excellence to crafting mobile and web wonders, I've been there, coded that. My journey's been about making tech not just work, but work wonders. Curious about my coding escapades or up for a tech talk? Find me on <a href='https://www.github.com/conanm'>GitHub</a> or <a href='https://www.linkedin.com/in/conan-moriarty-11046534/'>Linkedin</a>. Let's make the digital world a tad more fun, shall we?.",
         image: {
             src: '/hero.jpeg',
             alt: 'A person sitting at a desk in front of a computer'
