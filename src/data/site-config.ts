@@ -41,7 +41,7 @@ const siteConfig: SiteConfig = {
     subtitle: 'CTO, Tech Lead, and Full-Stack Developer. Passionate about AI, ML, and product-led growth.',
     description: 'CTO, Tech Lead, and Full-Stack Developer. Passionate about AI, ML, and product-led growth.',
     image: {
-        src: '/dante-preview.jpg',
+        src: '/conan-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
     },
     headerNavLinks: [
