@@ -58,12 +58,12 @@ const siteConfig: SiteConfig = {
             href: '/tags'
         }
     ],
-    footerNavLinks: [
-        {
-            text: 'Contact',
-            href: '/contact'
-        }
-    ],
+    // footerNavLinks: [
+    //     {
+    //         text: 'Contact',
+    //         href: '/contact'
+    //     }
+    // ],
     socialLinks: [
         {
             text: 'Linkedin',
