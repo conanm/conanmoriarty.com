@@ -8,14 +8,14 @@ tags:
 title: Agility vs. flinchiness
 ---
 
-Over my years in startups I've lost track of moments where leaders give kudos for a core team while disenchanted product teams fold their arms and stare at the ground. The Friday meetings where disconnected leadership who don't really work in the day-to-day but yanked the rug from the team with a last minute scope change on a feature. "Thank you guys again for being so Agile". It reads almost like an apology: "Sorry we're indecisive & change our minds a lot."
+I've witnessed countless Friday back-pat meetings where leaders give kudos to a product team for being 'agile' during a sprint or cycle. I say 'agile' because often the body language of the team reflects that they're a bit disenchanted + not taking the feedback seriously (i.e. arms folded, looking at the ground, giggling in Google Meet maybe). These leaders are disconnected who don't really work in the day-to-day and maybe don't have a pedigree in product/engineering but they're happy to jump in and get involved in the scope of a sprint or give feedback on a feature at the wrong time. Worse, sometimes they're happy to totally yank the rug and pivot in a different direction but praise the hustle: "Thank you guys again for being so agile, we appreciate your flexibility". The team hears: "Sorry - we're indecisive & change our minds a lot."
 
-It happens, of course. Startups aren't clear. Surprises are always around the corner and there's plenty of reasons to throw the rules totally out the window (e.g. company survival, a totally misguided effort, an investor chiming in with some industry secret reason). No problem! But the valuable team members that you spent months trying to hire lose faith in your ability to lead when you **lack the proper foresight to make small tactical bets & stick to them** - you're not being agile; you just flinch a lot.
+It happens, of course. Startups aren't clear. Surprises are always around the corner and there's plenty of reasons to throw the rules totally out the window (e.g. company survival, a totally misguided effort in planning and new information arising during a cycle, an investor chiming in with some industry secret reason). No problem! But the valuable team members that you spent months trying to hire lose faith in your ability to lead when you **lack the proper foresight to make small tactical bets & stick to them** - you're not being agile; you just flinch a lot.
 
 > ### Agile (adjective)
 > _Able to move quickly and easily; characterized by quickness, nimbleness, and speed._
 
-Agility is super useful in a small org. In fact, if you're not extremely quick at 3-30 people, churning out features/tests/marketing campaigns and seeing response in your KPIs I'd argue that the organization is extremely dysfunctional. Dysfunctional orgs have a variety of problems - but the common issue I run into is the kind of control-freak/micromanaging founder:
+Agility is super useful in a small org. In fact, if you're not extremely quick at 3-30 people, churning out features/tests/marketing campaigns and seeing response in your KPIs I'd argue that the organization is extremely dysfunctional. Dysfunctional orgs have a variety of problems - but the common issue I run into is the kind of control-freak/micromanaging set of founders:
 
 - They are forced to delegate for the first time in their life
 - They don't have data that reassures them
