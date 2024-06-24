@@ -1,6 +1,6 @@
 ---
 publishDate: '2024-06-18'
-excerpt: 'Able to move quickly and easily; characterized by quickness, nimbleness, and speed.'
+excerpt: 'Ablility to move quickly and easily; characterized by quickness, nimbleness, and speed.'
 tags:
   - startup
   - software development
