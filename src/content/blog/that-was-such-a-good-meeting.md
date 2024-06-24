@@ -42,7 +42,7 @@ Yep sure sounds good.
 No-one felt brave enough to break the pattern he'd established as the leader at the table and make suggestions. It wasn't just that this meeting was uncomfortable, we'd established in the past that ideas/suggestions/changes entered into the CEOs 'dealflow' mindset and he would begin negotiating. If it was too much of an intellectual challenge to totally rethink something he would argue against it. Ultimately, he had the final say on everything. There was a lack of trust given to the people he'd appointed to handle certain parts of the business.... Ultimately, the meeting wasn't the root issue; it was merely a symptom of a deeper problem plaguing the management of the business.
 
 
-# Ideas
+# Pointers
 
 ## Ask for bad ideas
 Are you creating psychological safety not just in the org but in the meeting? This is a big, deep topic (Amy C. Edmondson wrote a book on it) but there's basic stuff you can implement that's actually quite fun. Look at it like this:
